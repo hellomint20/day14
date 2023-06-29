@@ -8,6 +8,7 @@ class Test02{
 		System.out.println(s1+", "+s2); 
 	}
 }
+
 public class MainClass02 {
 	public static void main(String[] args) {
 		Test02 t = new Test02();
